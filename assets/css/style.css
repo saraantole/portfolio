@@ -265,7 +265,7 @@ a:focus {
 }
 
 #hero p span {
-  color: rgb(122, 181, 221);
+  color: var(--pink);
   letter-spacing: 3px;
 }
 
